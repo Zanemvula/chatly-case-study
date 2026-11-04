@@ -2,7 +2,7 @@
 
 **Chatly** is a multi-tenant conversational-commerce platform. A merchant connects their own WhatsApp number; Chatly runs an ordering and quoting conversation on it, takes payment through the merchant's own payment account, records the sale, and gives the merchant a dashboard over all of it.
 
-Designed, built and run by [Ntsika Gqiba](https://www.linkedin.com/in/ntsika-gqiba) under Vularis (Pty) Ltd. **In active development; founder-cohort stage.** This repo documents architecture and decisions; the source is private.
+Designed, built and run by [Ntsika Gqiba](https://www.linkedin.com/in/ntsika-gqiba) under Vularis (Pty) Ltd. **Archived October 2026** after a live end-to-end payment; as a solo engineer I chose not to run a payments product. This repo documents architecture and decisions; the source is private.
 
 ---
 
